@@ -5,7 +5,7 @@ Built using the Python flask framework which is light weight and extensible.
 ## Tech Stack (Dependencies) 👩‍💻 
 
 ### Dependencies 
-Our tech stack will include the following:
+the tech stack include the following:
  * 💻 **virtualenv** as a tool to create isolated Python environments
  * 🛅 **SQLAlchemy ORM** to be our ORM library of choice
  * 📚 **PostgreSQL** as our database of choice
@@ -21,7 +21,7 @@ git clone https://github.com/geekpascal/FlaskCanvasblog.git
 cd FlaskCanvasblog/ 
 ```
 
-2. **Create an empty repository in your Github account online.
+2. **Create an empty repository in your Github account online.**
 
 3. **Initialize and activate a virtualenv using:**
 
